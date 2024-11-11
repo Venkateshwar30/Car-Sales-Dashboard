@@ -1,8 +1,7 @@
 # Car-Sales-Dashboard
 
 Objective:
-
-         Creating a  Car Sales Dashboard using Microsoft PowerBI.
+Creating a  Car Sales Dashboard using Microsoft PowerBI.
          
 Steps involved: 
          1. Get the raw data.
